@@ -1,0 +1,6 @@
+{
+  "name": "Hamdeen",
+  "description": "Hamdeen is a complete Islamic companion web application featuring Namaz tracker, verified prayer times, adhan alarms, Quran reading planner, Tasbeeh counter, Qibla compass, Dua of the Day, and Hijri calendar.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
